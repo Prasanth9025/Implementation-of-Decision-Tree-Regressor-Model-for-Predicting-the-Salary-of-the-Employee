@@ -55,12 +55,19 @@ plot_tree(dt,feature_names=x.columns, filled=True)
 plt.show()
 ```
 ## Output:
+
 ![image](https://github.com/Prasanth9025/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118343686/b233ee22-36e0-4448-ac27-45b53245ceb6)
+
 ![image](https://github.com/Prasanth9025/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118343686/a52b1639-0922-421a-9663-24416f4f6793)
+
 ![image](https://github.com/Prasanth9025/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118343686/e10d0a2a-0826-4cff-8ffa-bbfd20c5d698)
+
 ![image](https://github.com/Prasanth9025/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118343686/1f9140f9-310b-4853-9f8b-214f41274bf8)
+
 ![image](https://github.com/Prasanth9025/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118343686/4e913819-6918-4b59-9078-e05bd66ba1e2)
-![image](https://github.com/Prasanth9025/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118343686/e1e96a9a-d7e3-4771-b3d6-8df21e612f91)
+
+![image](https://github.com/Prasanth9025/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118343686/e7d70784-c786-44a8-a0e2-c56f2a6e8251)
+
 
 
 ## Result:
